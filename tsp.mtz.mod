@@ -66,7 +66,7 @@ s.t. entrante{j in N}: sum{(i,j) in E : j != i} x[i,j] = 1;
 
 /*
 Sin embargo, con estas restricciones y la condici�n binaria de las variables x(i,j), 
-no es suficiente para garantizar que las soluciones factibles son recorridos. 
+no es suficiente para garantizar que las soluciones factibles son son ciclos cerrados en G. 
 Es posible por tanto, que aparezca una soluci�n formada por subtours (no conectadas entre s�)
 y que cumplan las restricciones anteriores. Es por ello, por lo que es necesario 
 a�adir m�s restricciones que eviten la formaci�n de subtours.
