@@ -72,7 +72,7 @@ y que cumplan las restricciones anteriores. Es por ello, por lo que es necesario
 a�adir m�s restricciones que eviten la formaci�n de subtours.
 
 Restriccion 3: Basada en la de Miller, Tucker y Zemlin (MTZ)
-u(j) >= u(i) + 2 - n (1 - x(i,j)) - x(i,j) para i != 1, j != 1, j != i, i != j
+u(j) >= u(i) + 2 - n (1 - x(i,j)) - x(i,j) para i != 1, j != 1, i != j
 */
 
 # Restriccion 3: MTZ
