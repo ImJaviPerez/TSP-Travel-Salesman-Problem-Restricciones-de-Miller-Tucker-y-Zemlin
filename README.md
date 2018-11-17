@@ -3,7 +3,7 @@
 TSP con las restricciones de Miller, Tucker y Zemlin
 
 Problema del Viajante de Comercio
-(TSP): Consideremos un grafo no orientado G=(N,E) con costo c_e asociado a cada arista e \in E. El Problema del Viajante de Comercio consiste en determinar un ciclo (cerrado) en G en el que se recorren todos los nodos del grafo una sola vez y cuyas aristas tengan un costo total minimo.
+(TSP): Consideremos un grafo no orientado G=(N,E) con costo c_e asociado a cada arista $e \in E$. El Problema del Viajante de Comercio consiste en determinar un ciclo (cerrado) en G en el que se recorren todos los nodos del grafo una sola vez y cuyas aristas tengan un costo total minimo.
 
 Se suele asumir que el grafo G es completo, o sea, que existen todas las aristas posibles.
 - N es el conjunto de ciudades o nodos. Los nodos estan numerados de {1, ..., n},
