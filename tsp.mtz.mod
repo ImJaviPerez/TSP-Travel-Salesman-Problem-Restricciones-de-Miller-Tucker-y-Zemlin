@@ -5,6 +5,7 @@ Nombre: tsp.mtz.mod
 Autor: F. Javier Perez Ramirez
 Fecha: 12-01-2018
 version: 1.0
+software: Gusek. http://gusek.sourceforge.net/gusek.html
 
 Descripcion:
 Problema del Viajante de Comercio
